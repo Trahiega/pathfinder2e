@@ -42,6 +42,7 @@ Arriving in Alorn, we meet Elder Jacob then are alerted to a rat attack in the w
 
 > "Repay evil with good and hell will not take you."  
 > \- Triton to Elder Jacob ^5081f2
+
 - A call comes that there are rats in the warehouses! We run along to help.
 - Outside the warehouses Aethelbert makes some comments about the villagers all looking familiar because of inbreeding
 - One of the villagers is dead in one of the warehouses
@@ -87,3 +88,6 @@ Compendium on Foundry has all of the actions in that I can drag onto my characte
 - Don't forget multiple attack penalty
 - Devise a Stratagem
 	- because you roll the d20 in advance, you can decided whether it's worth using that roll to attack, or if it's best to just do something else
+
+#### Github pages
+mkdocs does not support obsidians block embeds
