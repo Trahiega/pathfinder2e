@@ -10,6 +10,10 @@ Wears the symbol of the [[Adventurer's Guild]]
 Is Triton this groups leader?
 
 ## Quotes
-![[Session 2, 6th September#^5081f2]]
+> "Repay evil with good and hell will not take you."  
+> \- Triton to Elder Jacob  
+[[Session 2, 6th September#^5081f2]]
 
-![[Session 2, 6th September#^40fca9]]
+> "I'm still the fastest dwarf alive!"  
+\- Triton, after being sickened by a disease.  
+[[Session 2, 6th September#^40fca9]]
