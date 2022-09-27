@@ -1,3 +1,3 @@
 # Filth Fever
 
-A disease.
+A disease caused by Rodents of Unusual Size.

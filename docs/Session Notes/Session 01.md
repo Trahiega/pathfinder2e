@@ -1,7 +1,6 @@
 ---
 type: session
 date created: 2022-09-08
-game_date: AX
 tags: #session-notes
 aliases: [Session 1]
 ---

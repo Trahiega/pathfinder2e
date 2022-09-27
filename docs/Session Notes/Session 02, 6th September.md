@@ -65,7 +65,6 @@ Gained 200xp
 Level 2 is at 1000xp
 
 ## Next steps & Loose Ends
-
 [[Triton Stormwind]] is infected with [[Filth Fever]] from the [[Rat Swarm]] we fought in the barns. He'll need a few days of rest.
 
 We need to find the source of the rats attacking Alorn.
@@ -75,7 +74,7 @@ Questions for the party
 - Zalhelm
 	- What are all those notes he's taking?
 
-### Rules & Foundry
+### Rules & Forge
 Haven't done a bulk calculation.
 - Foundry lets you put items in containers, very handy.    
 
