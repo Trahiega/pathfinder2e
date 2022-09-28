@@ -5,8 +5,10 @@ game_date: 2022-09-06
 tags: #session-notes
 aliases: [Session 2]
 ---
-# Session 2
-Tuesday, 6th September 2022
+# Session 2, Goblins are scary!
+Session Date: Tuesday, 6th September 2022
+
+![[Session2.png]] 
 
 ## Session Summary
 After a battle with some goblins, [[Thynglybeth Thildellom|Thynglybeth]] came across the party. She had set out from the village of [[Alorn]] to find out what was taking the [[Adventurer's Guild]] so long to come to their aid.

@@ -5,11 +5,11 @@ game_date: 2022-09-20
 tags: #session-notes
 aliases: [Session 3]
 ---
-# Session 3, 20th September
-Date of session: 2022-01-19  
-In-game day count: Day 1 to Day 1  
+# Session 3, Rat Bite Fever
+Session Date: Tuesday, 20th September 2022
 
-## Session Summary
+![[Screenshot (169).png]] 
+
 After fighting off the rats at the warehouse, we take sickened Triton back to the tavern and we set up "The Call of Adventure" for the village.
 
 Next we went back to investigate the source of the rats, and finding some tracks head out of the village; Hildi the Herbalist catchs us first and offers us some healing potions to aid in our task. Following the tracks from the warehouse we make it to the rat's nest. We successfully defeat the rats in the nest, and take the Enormous Rat's head back for proof, it wasn't an easy victory and we nearly lost Zalhelm in the fight, and both Zalhelm & Aethelbert contracted Filth Fever from the rats.
@@ -24,6 +24,7 @@ Active lead: The rats attacking Alorn
 - Triton gives an artifact to Aethelbert and then **Triton heads inside to rest up at the tavern**
 	- a white, football sized, d2 shaped objects with the adventurer's guild emblem
 	- "The Call to Adventure"
+	- ![[Screenshot (170).png]]
 - & a note with instructions on how to set it up
 	- needs an adventurer to set up
 - It is to be left at the village for their use
@@ -93,8 +94,8 @@ Active lead: The rats attacking Alorn
 - Zal goes down
 	- Manage to get to him and feed him a potion
 - Tuco gets the kill shot ion the Enormous Rat, through the mouth splattering its guts against the wall
-- Victory!
-
+- Victory!  
+![[Screenshot (173).png]]
 - Looking around the cave
 	- The Enormous rat has been eating the other rats
 	- no treasure to be found
